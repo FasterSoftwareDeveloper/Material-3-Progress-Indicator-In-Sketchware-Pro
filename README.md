@@ -60,4 +60,4 @@ This project already removes the older Material 3 library and includes the lates
 This project is released under the **Creative Commons Zero v1.0 Universal (CC0 1.0)** license.  
 You may copy, modify, distribute, and use it freely, even for commercial purposes.
 
-🔗 [View Full License](https://creativecommons.org/publicdomain/zero/1.0/)
+🔗 [View Full License](https://github.com/FasterSoftwareDeveloper/Material-3-Progress-Indicator-In-Sketchware-Pro?tab=CC0-1.0-1-ov-file)
