@@ -1,6 +1,14 @@
 <!-- Thumbnail -->
 <p align="center">
-  <img src="thumbnail.png" alt="Material 3 Progress Indicator Thumbnail" width="600"/>
+  <a href="https://youtu.be/9L_yXaVab80" target="_blank">
+    <img src="thumbnail.png" alt="Material 3 Progress Indicator Thumbnail" width="600"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://youtu.be/9L_yXaVab80" target="_blank">
+    ▶️ **Click to Watch the Video**
+  </a>
 </p>
 
 # 📱 Material 3 Progress Indicator in Sketchware Pro
