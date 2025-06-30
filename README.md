@@ -13,7 +13,7 @@
 
 # 📱 Material 3 Progress Indicator in Sketchware Pro
 
-This project demonstrates how to implement **Material 3 Progress Indicators** in **Sketchware Pro**, including both **Linear** and **Circular** types. It covers **determinate/indeterminate modes**, **Material You (Expressive)** wave **animation behaviors**, and compatibility with **Extended FABs** and **Collapsing Toolbars**.
+This project demonstrates how to implement **Material 3 Progress Indicators** in **Sketchware Pro**, including both **Linear** and **Circular** types. It covers **determinate/indeterminate modes**, wavy **animation behaviors**, and compatibility with **Extended FABs** and **Collapsing Toolbars**.
 
 🛠 Built using: `com.google.android.material:material:1.14.0-alpha02`
 
@@ -26,7 +26,7 @@ This project demonstrates how to implement **Material 3 Progress Indicators** in
 - 🎞 Indeterminate Animation Types  
 - 🧭 Custom Circular Indicator Directions  
 - 🎬 Show and Hide Animation Behaviors  
-- 🧩 Material 3 Expressive Shape Support  
+- 🧩 Wavy Progress indicator Support  
 - ➕ Extended Floating Action Button (FAB) Integration
 - more
 - 🧱 Collapsing Toolbar Support  
